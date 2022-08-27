@@ -1,0 +1,107 @@
+Important Operations:
+
+Menus:
+------
+
+  Enter/Exit Menu's  : ESC
+  Move selection-bar : CURSOR KEYS
+  Make selection     : SPACE or ENTER
+
+Selecting a char to edit from the Char-Map:
+-------------------------------------------
+
+  Move cursor         : CURSOR KEYS
+  Select char to edit : SPACE or ENTER
+  Enter main menu     : ESC (Quit, File, Help)
+
+Editing a char:
+---------------
+
+  Move cursor         : CURSOR KEYS
+  Flip Pixel          : SPACE or ENTER
+  Enter edit menu     : ESC  (Quit, Scroll, Flip, Clear, Invert, Read, Write)
+
+Selecting a filename:
+---------------------
+
+  Choose name    : Same as in menus
+  Enter name     : Choose <name> or empty name, type name and press ENTER
+  See more files : Select <more> if present
+  Exit           : ESC
+
+
+Menu selections:
+----------------
+
+ Main Menu : Quit  : Exits FONTASTIC (gives warning when font not saved)
+             File  : Invokes Files Menu (load & save fonts)
+             Help  : You allready found that out...
+
+ File Menu : Exit      : Exits the File Menu (same as ESC)
+             Load Font : Loads a font from disk. Read "Selecting a filename"
+             Save Font : Saves a font to disk. Read "Selecting a filename"
+             Dos Shell : Enters the Dos-shell. Type EXIT to return to
+                         FONTASTIC. N.B. : If there is not enough memory
+                         available to run a copy of COMMAND.COM, FONTASTIC is
+                         immediately returned to...
+
+ Help : Scroll Up/Down : CURSOR KEYS
+      : Exit Help      : ESC
+
+ Edit Menu : Quit Edit : Exits the edit mode
+             Scroll    : Scrolls the char in the four directions by using the
+                         CURSOR KEYS. ESC to stop scrolling
+             Flip      : Flips the char in horizontally or vertically by
+                         using the CURSOR KEYS. ESC to stop flipping
+             Clear     : Clears the char
+             Invert    : Inverts the char
+             Read      : Overwrites the char with data read from buffer
+             Write     : Overwrites buffer with the char data
+------------------------------------------------------------------------------
+Credits : FONTASTIC is programmed by Michel 'Mad B' de Bree in 1992
+          Thanks for help, ideas and testing must go to Hans 'Olohof
+          Productions' Olofsen, Bas 'Bas' Broers, Latif Ajandaf, J.P. v/der
+          Endt and Mark 'Marky Mark' Vertegaal
+
+Greetings : go to all in HeatWave : Bas 'Bas' Broers, Marvin 'Trooper'
+            Severijns and Dennis 'Dandy' Middelkoop. To all at the T.U.
+            Delft (in alphabetical order...) : Dennis Admiraal, Latif
+            Ajandaf, Bastiaan Bakker, Mark Bennis, Joost Bonnet, Michiel
+            Borgers, J.P. v/der Endt, Merel Geerlink, Goodry Gubbels,
+            Richard Odekerken, Hans Olofsen, Marnix Rhijnsburger, Raymond
+            Tetteroo, Mike van Vendeloo and (always last), Mark Vertegaal.
+            To some of the greatest people on T.U. Delft : Cool Koolhaas,
+            Horny Heijnsdijk, Magical Mugge, Soulful Sol, Terrific Tonino,
+            Rambling Remmerswaal and Wacky v/der Weide. To Paradize : Dennis
+            'Dennis' Admiraal, John 'Genius' Bruin and Sixten 'Moron' Jansen.
+            To Atari-players in France : Nadege, Yannick and Olivier Ligeron.
+            Off course I also greet all my old C64-contacts that still
+            remember me...
+
+Important HeatWave Releases so far:
+
+Name                                    Released on                  Computer
+------------------------------------------------------------------------------
+Total Recall 1-5                        Scene                            C-64
+The Spench/Sixth Sense coop demo        Scene                            C-64
+The Paradize/Internal Affairs coop demo Scene                            C-64
+Eddies Adventure                        Scene                            C-64
+Solitair                                Game On                          C-64
+Adrenalin                               Game On                          C-64
+Fontastic (64 version)                  Magic Disk                       C-64
+The Rhyme Design Collection             Scene                            C-64
+EGA-paint                               -                                PC
+Scroll-Editor                           -                                PC
+Fontastic                               -                                PC
+
+And numerous demo's, intro's, notes, graphics and musics...
+
+                  Watch out for other HeatWave-releases!!!
+
+       And keep your ears up for Rhyme Design musics on C-64/Amiga!!!
+
+
+                                          Mad B/Rhyme Design/HeatWave in 1992
+
+(Press ESC to exit Help)
+*
