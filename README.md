@@ -2,6 +2,8 @@
 
 An MS-DOS font editor, found on an old CD-ROM.
 
+![Fontastic screenshot](fontastic.png)
+
 The binaries are provided in the `target` folder. You probably need
 [DOSBox](https://www.dosbox.com/) to run them.
 
@@ -119,4 +121,3 @@ Bas 'Bas' Broers           :                                        Programmer
 Marvin 'Trooper' Severijns :                  Musician, Graphician, Programmer
 Dennis 'Dandy' Middelkoop  :                                  Graphician, P.R.
 ```
-
